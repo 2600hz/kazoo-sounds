@@ -19,7 +19,7 @@ sup whistle_media_maintenance import_prompt /opt/kazoo/system_media/dir-enter_pe
 
 ## Notes
 
-* Kazoo does not read the files from disk, you must import a new prompt before it becomes available (and flush the appropriate caches).
+* Kazoo does not play the prompts from disk, you must import a new prompt before it becomes available (and flush the appropriate caches).
 * This is documented here for convenience, but more information is available in the docs.
 * If you run the script over and over it will overwrite the meta records and media already in bigcouch.
 * You must(should) install English "en-us" *plus* other languages if you want to avoid troubles and save debugging time.  Kazoo will eventually always fallback to English if everythign else fails.
