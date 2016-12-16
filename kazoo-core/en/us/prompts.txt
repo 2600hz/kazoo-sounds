@@ -107,16 +107,19 @@ temporal-menu: Time based call routing. To mark the office as open, press 1. To 
 vm-abort: I'm sorry, there have been too many failed attempts to log in; goodbye.
 vm-deleted: Deleted.
 vm-enter_id: Please enter you mailbox number, then press pound.
+vm-enter_forward_id: Please enter the mailbox number you wish to forward to, then press pound.
 vm-enter_new_pin_confirm: To confirm, please enter your new password again, then press pound.
 vm-enter_new_pin: Please enter your new password, then press pound.
 vm-enter_pass: Please enter your password, then press pound.
 vm-fail_auth: Log in incorrect.
+vm-forward_abort: I'm sorry, there have been too many failed attempts to find the destination mailbox.
 vm-goodbye: Goodbye.
 vm-greeting_intro: The subscriber you are trying to reach is unavailable.
 vm-mailbox_full: The voicemail box is full, please try your call again later.
 vm-main_menu_not_configurable: To hear new messages, press one. To hear your saved messages, press two.
 vm-main_menu: To hear new messages, press one. To hear your saved messages, press two. To change your settings, press five.
-vm-message_menu: To save, press one. To replay, press two.  To delete, press seven. To return to the main menu, press zero.
+vm-message_forwarding: To prepend a message, press one. To forward without prepending, press two. To continue listening to your messages, press zero.
+vm-message_menu: To save, press one. To replay, press two. To forward, press three. To delete, press seven. To return to the main menu, press zero.
 vm-message_number: Message
 vm-new_and: new and
 vm-new_message: new message
@@ -131,6 +134,7 @@ vm-pin_invalid: I'm sorry, the passwords did not match or can not be used, pleas
 vm-pin_set: Thank you, your new password has been saved.
 vm-received: Received
 vm-record_greeting: At the tone please say your greeting, then press any key or stop talking to end the recording.
+vm-record_temp_greeting: At the tone please say your temporary greeting, then press any key or stop talking to end the recording.
 vm-recording_saved: Recording saved.
 vm-recording_to_short: The recording was too short to be saved.
 vm-record_message: Record your message at the tone, press any key or stop talking to end the recording.
@@ -139,7 +143,7 @@ vm-review_recording: To save this recording, press one. To listen, press two. To
 vm-saved_message: saved message
 vm-saved_messages: saved messages
 vm-saved: Saved.
-vm-settings_menu: To record your mailbox greeting, press one. To record your name, press two. To change your password, press three. To return to the main menu, press zero.
+vm-settings_menu: To record your mailbox greeting, press one. To record your name, press two. To change your password, press three. To record and use a temporary greeting, press four. To delete your temporary greeting and restore your normal greeting, press five. To return to the main menu, press zero.
 vm-setup_complete: Congratulations, your mailbox has been configured. If you would like to change any of these settings later, choose option 5 from the mailbox main menu.
 vm-setup_intro: Welcome to your mailbox. Together we will personalise the settings. Lets start by setting your password.
 vm-setup_rec_greeting: Now lets record the greeting that callers will hear when they reach your mailbox.
@@ -149,3 +153,5 @@ vm-you_have: You have
 cw-activated: Call waiting is now enabled, you will receive a new incoming call even when you are currently on another call.
 cw-deactivated: Call waiting is now disabled, when you are already on a call new incoming calls will not be sent to you.
 cw-not_available: Call waiting is not supported from this phone. Please contact support if you beleive this is in error.
+
+stepswitch-emergency_not_configured: The account you are dialing from, is not configured for emergency services.  Contact your system administrator as soon as possible to add the emergency service configuration.
