@@ -5,8 +5,9 @@
 This will import all prompts for a given language.  Depending on the version or install source your path to the media files may differ.
 
 ```
-sup whistle_media_maintenance import_prompts /opt/kazoo/media/prompts/en/us/ en-us
-sup whistle_media_maintenance import_prompts /opt/kazoo/media/prompts/fr/ca/ fr-ca
+sup kazoo_media_maintenance import_prompts /opt/kazoo/media/prompts/en/us/ en-us
+sup kazoo_media_maintenance import_prompts /opt/kazoo/media/prompts/fr/ca/ fr-ca
+sup kazoo_media_maintenance import_prompts /opt/kazoo/media/prompts/ru/ru/ ru-ru
 ```
 
 ## Importing individual prompts
@@ -14,7 +15,7 @@ sup whistle_media_maintenance import_prompts /opt/kazoo/media/prompts/fr/ca/ fr-
 Create the media files one by one in BigCouch like so..
 
 ```
-sup whistle_media_maintenance import_prompt /opt/kazoo/system_media/dir-enter_person_lastname.wav en-us
+sup kazoo_media_maintenance import_prompt /opt/kazoo/system_media/dir-enter_person_lastname.wav en-us
 ```
 
 ## Notes
