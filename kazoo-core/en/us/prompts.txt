@@ -114,6 +114,7 @@ vm-enter_new_pin: Please enter your new password, then press pound.
 vm-enter_pass: Please enter your password, then press pound.
 vm-fail_auth: Log in incorrect.
 vm-forward_abort: I'm sorry, there have been too many failed attempts to find the destination mailbox.
+vm-forward_confirm: Your voicemail has been forwarded.
 vm-goodbye: Goodbye.
 vm-greeting_intro: The subscriber you are trying to reach is unavailable.
 vm-mailbox_full: The voicemail box is full, please try your call again later.
