@@ -24,14 +24,46 @@ package:
       find freeswitch/ -mindepth 1 -maxdepth 1 -type d -exec cp -a {} %{buildroot}/usr/share/kazoo-freeswitch/sounds \;
       find kazoo-core/ -mindepth 1 -maxdepth 1 -type d -exec cp -a {} %{buildroot}/opt/kazoo/sounds \;
     files:
-      doc:
-        - CHANGELOG
-        - VERSION
     url: 'http://www.2600hz.org'
     vendor: 2600Hz
 metapackage:
   -
     name: meta-kazoo-applications
-    package: kazoo-configs-core
+    package: kazoo-sounds-core-en-us
     type: required
-    branch: 'master'
+    branch: '5.0'
+  -
+    name: meta-kazoo-applications
+    package: kazoo-sounds-core-es-es
+    type: required
+    branch: '5.0'
+  -
+    name: meta-kazoo-applications
+    package: kazoo-sounds-core-fr-ca
+    type: required
+    branch: '5.0'
+  -
+    name: meta-kazoo-applications
+    package: kazoo-sounds-core-ru-ru
+    type: required
+    branch: '5.0'
+  -
+    name: meta-kazoo-freeswitch
+    package: kazoo-sounds-freeswitch-en-us
+    type: required
+    branch: '5.0'
+  -
+    name: meta-kazoo-freeswitch
+    package: kazoo-sounds-freeswitch-fr-ca
+    type: required
+    branch: '5.0'
+  -
+    name: meta-kazoo-freeswitch
+    package: kazoo-sounds-freeswitch-music-80000
+    type: required
+    branch: '5.0'
+  -
+    name: meta-kazoo-freeswitch
+    package: kazoo-sounds-freeswitch-ru-ru
+    type: required
+    branch: '5.0'
