@@ -135,5 +135,12 @@ jobs:
           command: |
             cd $BUILD_ROOT
             ./build
+      - run: 
+          name: moving artifacts to export
+          command: |
+            mkdir ${BUILD_ROOT}/EXPORT
+            cd ${BUILD_ROOT}/RPMS
+            find . -name kazoo-sounds-freeswitch* -exec cp {} ${BUILD_ROOT}/EXPORT \;
+            find . -name kazoo-sounds-core* -exec cp {} ${BUILD_ROOT}/EXPORT \;
       - store_artifacts:
-          path: /home/circleci/2600hz/packager/RPMS
+          path: /home/circleci/2600hz/packager/EXPORT
