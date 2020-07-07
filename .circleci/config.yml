@@ -77,7 +77,6 @@ jobs:
               ######################################################################################################################
               %package freeswitch-${LANGUAGE}-${DIALECT}
               Summary: Kazoo FreeSWITCH audio files for ${LANGUAGE}-${DIALECT}
-              Requires: freeswitch-unofficial
               %description freeswitch-${LANGUAGE}-${DIALECT}
               These language packs provide audio files for the FreeSWITCH
               macros used when playing numbers recorded in the same voice 
