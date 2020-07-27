@@ -1,5 +1,5 @@
 name: kazoo-configs-core
-base_branch: origin/master
+base_branch: 'origin/5.0'
 base_core: null
 template: spec.tmpl
 package:
@@ -59,7 +59,7 @@ metapackage:
     branch: '5.0'
   -
     name: meta-kazoo-freeswitch
-    package: kazoo-sounds-freeswitch-music-80000
+    package: kazoo-sounds-freeswitch-music-8000
     type: required
     branch: '5.0'
   -
