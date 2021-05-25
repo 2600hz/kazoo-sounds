@@ -1,0 +1,200 @@
+<language>
+  <es_MX>
+    <ascii>
+      <prompt phrase="Espacio" filename="32.wav"/>
+      <prompt phrase="Signo de número" filename="35.wav"/>
+      <prompt phrase="Asterisco" filename="42.wav"/>
+      <prompt phrase="Punto" filename="46.wav"/>
+      <prompt phrase="A" filename="97.wav"/>
+      <prompt phrase="B" filename="98.wav"/>
+      <prompt phrase="C" filename="99.wav"/>
+      <prompt phrase="D" filename="100.wav"/>
+      <prompt phrase="E" filename="101.wav"/>
+      <prompt phrase="F" filename="102.wav"/>
+      <prompt phrase="G" filename="103.wav"/>
+      <prompt phrase="H" filename="104.wav"/>
+      <prompt phrase="I" filename="105.wav"/>
+      <prompt phrase="J" filename="106.wav"/>
+      <prompt phrase="K" filename="107.wav"/>
+      <prompt phrase="L" filename="108.wav"/>
+      <prompt phrase="M" filename="109.wav"/>
+      <prompt phrase="N" filename="110.wav"/>
+      <prompt phrase="Ñ" filename="165.wav"/>
+      <prompt phrase="O" filename="111.wav"/>
+      <prompt phrase="P" filename="112.wav"/>
+      <prompt phrase="Q" filename="113.wav"/>
+      <prompt phrase="R" filename="114.wav"/>
+      <prompt phrase="S" filename="115.wav"/>
+      <prompt phrase="T" filename="116.wav"/>
+      <prompt phrase="U" filename="117.wav"/>
+      <prompt phrase="V" filename="118.wav"/>
+      <prompt phrase="W" filename="119.wav"/>
+      <prompt phrase="X" filename="120.wav"/>
+      <prompt phrase="Y" filename="121.wav"/>
+      <prompt phrase="Z" filename="122.wav"/>
+    </ascii>
+    <phonetic-ascii>
+      <prompt phrase="Espacio" filename="32.wav"/>
+      <prompt phrase="Signo de número" filename="35.wav"/>
+      <prompt phrase="Asterisco" filename="42.wav"/>
+      <prompt phrase="Punto" filename="46.wav"/>
+      <prompt phrase="Alpha" filename="97.wav"/>
+      <prompt phrase="Bravo" filename="98.wav"/>
+      <prompt phrase="Charlie" filename="99.wav"/>
+      <prompt phrase="Delta" filename="100.wav"/>
+      <prompt phrase="Echo" filename="101.wav"/>
+      <prompt phrase="Foxtrot" filename="102.wav"/>
+      <prompt phrase="Golf" filename="103.wav"/>
+      <prompt phrase="Hotel" filename="104.wav"/>
+      <prompt phrase="India" filename="105.wav"/>
+      <prompt phrase="Juliet" filename="106.wav"/>
+      <prompt phrase="Kilo" filename="107.wav"/>
+      <prompt phrase="Lima" filename="108.wav"/>
+      <prompt phrase="Mike" filename="109.wav"/>
+      <prompt phrase="November" filename="110.wav"/>
+      <prompt phrase="Oscar" filename="111.wav"/>
+      <prompt phrase="Papa" filename="112.wav"/>
+      <prompt phrase="Quebec" filename="113.wav"/>
+      <prompt phrase="Romeo" filename="114.wav"/>
+      <prompt phrase="Sierra" filename="115.wav"/>
+      <prompt phrase="Tango" filename="116.wav"/>
+      <prompt phrase="Unifor" filename="117.wav"/>
+      <prompt phrase="Victor" filename="118.wav"/>
+      <prompt phrase="Whiskey" filename="119.wav"/>
+      <prompt phrase="Xray" filename="120.wav"/>
+      <prompt phrase="Yankee" filename="121.wav"/>
+      <prompt phrase="Zulu" filename="122.wav"/>
+    </phonetic-ascii>
+    <digits>
+      <prompt phrase="Cero" filename="0.wav"/>
+      <prompt phrase="Uno" filename="1.wav"/>
+      <prompt phrase="Dos" filename="2.wav"/>
+      <prompt phrase="Tres" filename="3.wav"/>
+      <prompt phrase="Cuatro" filename="4.wav"/>
+      <prompt phrase="Cinco" filename="5.wav"/>
+      <prompt phrase="Seis" filename="6.wav"/>
+      <prompt phrase="Siete" filename="7.wav"/>
+      <prompt phrase="Ocho" filename="8.wav"/>
+      <prompt phrase="Nueve" filename="9.wav"/>
+      <prompt phrase="Diez" filename="10.wav"/>
+      <prompt phrase="Once" filename="11.wav"/>
+      <prompt phrase="Doce" filename="12.wav"/>
+      <prompt phrase="Trece" filename="13.wav"/>
+      <prompt phrase="Catorce" filename="14.wav"/>
+      <prompt phrase="Quince" filename="15.wav"/>
+      <prompt phrase="Dieciséis" filename="16.wav"/>
+      <prompt phrase="Diecisiete" filename="17.wav"/>
+      <prompt phrase="Dieciocho" filename="18.wav"/>
+      <prompt phrase="Diecinueve" filename="19.wav"/>
+      <prompt phrase="Veinte" filename="20.wav"/>
+      <prompt phrase="Veinti" filename="veinti.wav"/>
+      <prompt phrase="Treinta" filename="30.wav"/>
+      <prompt phrase="Cuarenta" filename="40.wav"/>
+      <prompt phrase="Cincuenta" filename="50.wav"/>
+      <prompt phrase="Sesenta" filename="60.wav"/>
+      <prompt phrase="Setenta" filename="70.wav"/>
+      <prompt phrase="Ochenta" filename="80.wav"/>
+      <prompt phrase="Noventa" filename="90.wav"/>
+      <prompt phrase="Cien" filename="100.wav"/>
+      <prompt phrase="Quinientos" filename="500.wav"/>
+      <prompt phrase="Setecientos" filename="700.wav"/>
+      <prompt phrase="Novecientos" filename="900.wav"/>
+      <prompt phrase="Punto" filename="dot.wav"/>
+      <prompt phrase="Primero" filename="h-1.wav"/>
+      <prompt phrase="Segundo" filename="h-2.wav"/>
+      <prompt phrase="Tercero" filename="h-3.wav"/>
+      <prompt phrase="Cuarto" filename="h-4.wav"/>
+      <prompt phrase="Quinto" filename="h-5.wav"/>
+      <prompt phrase="Sexto" filename="h-6.wav"/>
+      <prompt phrase="Séptimo" filename="h-7.wav"/>
+      <prompt phrase="Octavo" filename="h-8.wav"/>
+      <prompt phrase="Noveno" filename="h-9.wav"/>
+      <prompt phrase="Décimo" filename="h-10.wav"/>
+      <prompt phrase="Undécimo" filename="h-11.wav"/>
+      <prompt phrase="Duodécimo" filename="h-12.wav"/>
+      <prompt phrase="Decimotercero" filename="h-13.wav"/>
+      <prompt phrase="Decimocuarto" filename="h-14.wav"/>
+      <prompt phrase="Decimoquinto" filename="h-15.wav"/>
+      <prompt phrase="Decimosexto" filename="h-16.wav"/>
+      <prompt phrase="Decimoséptimo" filename="h-17.wav"/>
+      <prompt phrase="Decimoctavo" filename="h-18.wav"/>
+      <prompt phrase="Decimonoveno" filename="h-19.wav"/>
+      <prompt phrase="Vigésimo" filename="h-20.wav"/>
+      <prompt phrase="Trigésimo" filename="h-30.wav"/>
+      <prompt phrase="Un" filename="un.wav"/>
+      <prompt phrase="Ciento" filename="hundred.wav"/>
+      <prompt phrase="Cientos" filename="hundreds.wav"/>
+      <prompt phrase="Mil" filename="thousand.wav"/>
+      <prompt phrase="Millón" filename="million.wav"/>
+      <prompt phrase="Millones" filename="millions.wav"/>
+      <prompt phrase="Período" filename="period.wav"/>
+      <prompt phrase="Punto" filename="point.wav"/>
+      <prompt phrase="Signo de número" filename="pound.wav"/>
+      <prompt phrase="Asterisco" filename="star.wav"/>
+    </digits>
+    <currency>
+      <prompt phrase="Y" filename="and.wav"/>
+      <prompt phrase="Centavo" filename="cent.wav"/>
+      <prompt phrase="Central" filename="central.wav"/>
+      <prompt phrase="Centavos por minuto" filename="cents-per-minute.wav"/>
+      <prompt phrase="Centavos" filename="cents.wav"/>
+      <prompt phrase="Dólar" filename="dollar.wav"/>
+      <prompt phrase="Dólares" filename="dollars.wav"/>
+      <prompt phrase="Menos" filename="minus.wav"/>
+      <prompt phrase="Negativo" filename="negative.wav"/>
+    </currency>
+    <time>
+      <prompt phrase="A.M." filename="a-m.wav"/>
+      <prompt phrase="A" filename="at.wav"/>
+      <prompt phrase="Domingo" filename="day-0.wav"/>
+      <prompt phrase="Lunes" filename="day-1.wav"/>
+      <prompt phrase="Martes" filename="day-2.wav"/>
+      <prompt phrase="Miércoles" filename="day-3.wav"/>
+      <prompt phrase="Jueves" filename="day-4.wav"/>
+      <prompt phrase="Viernes" filename="day-5.wav"/>
+      <prompt phrase="Sábado" filename="day-6.wav"/>
+      <prompt phrase="Hora" filename="hour.wav"/>
+      <prompt phrase="Horas" filename="hours.wav"/>
+      <prompt phrase="Minuto" filename="minute.wav"/>
+      <prompt phrase="Minutos" filename="minutes.wav"/>
+      <prompt phrase="Enero" filename="mon-0.wav"/>
+      <prompt phrase="Febrero" filename="mon-1.wav"/>
+      <prompt phrase="Marzo" filename="mon-2.wav"/>
+      <prompt phrase="Abril" filename="mon-3.wav"/>
+      <prompt phrase="Mayo" filename="mon-4.wav"/>
+      <prompt phrase="Junio" filename="mon-5.wav"/>
+      <prompt phrase="Julio" filename="mon-6.wav"/>
+      <prompt phrase="Agosto" filename="mon-7.wav"/>
+      <prompt phrase="Septiembre" filename="mon-8.wav"/>
+      <prompt phrase="Octubre" filename="mon-9.wav"/>
+      <prompt phrase="Noviembre" filename="mon-10.wav"/>
+      <prompt phrase="Diciembre" filename="mon-11.wav"/>
+      <prompt phrase="En punto" filename="oclock.wav"/>
+      <prompt phrase="P.M." filename="p-m.wav"/>
+      <prompt phrase="Segundo" filename="second.wav"/>
+      <prompt phrase="Segundos" filename="seconds.wav"/>
+      <prompt phrase="Hoy" filename="today.wav"/>
+      <prompt phrase="Mañana" filename="tomorrow.wav"/>
+      <prompt phrase="Ayer" filename="yesterday.wav"/>
+    </time>
+    <misc>
+      <prompt phrase="Esta llamada ha sido asegurada." filename="call_secured.wav"/>
+      <prompt phrase="...seguido del signo de número." filename="followed.wav"/>
+      <prompt phrase="Si usted es esta persona..." filename="if_you_are_this_person.wav"/>
+      <prompt phrase="Si usted desea..." filename="if_you_would_like_to.wav"/>
+      <prompt phrase="Diga el número de referencia..." filename="provide_reference_number.wav"/>
+      <prompt phrase="Por favor pulse la extensión a la cual desea transferir." filename="transfer1.wav"/>
+      <prompt phrase="Transferir" filename="transfer2.wav"/>
+      <prompt phrase="Estamos tratando de contactar..." filename="we_are_trying_to_reach.wav"/>
+      <prompt phrase="Un error ha ocurrido, por favor contacte al administrador." filename="error.wav"/>
+      <prompt phrase="Su llamada será terminada en..." filename="misc-your_call_will_be_terminated_in.wav"/>
+      <prompt phrase="Su llamada ha sido terminada." filename="misc-your_call_has_been_terminated.wav"/>
+      <prompt phrase="Por motivos de entrenamiento y calidad, esta llamada puede ser escuchada o grabada." filename="call_secured.wav"/>
+      <prompt phrase="Inglés" filename="en.wav"/>
+      <prompt phrase="Español" filename="es.wav"/>
+      <prompt phrase="Esa es una extensión inválida." filename="invalid_extension.wav"/>
+      <prompt phrase="Este teléfono no está autorizado para realizar llamadas hacia fuera." filename="phone_not_auth.wav"/>
+      <prompt phrase="Lo siento." filename="sorry.wav"/>
+    </misc>
+  </es_MX>
+</language>
