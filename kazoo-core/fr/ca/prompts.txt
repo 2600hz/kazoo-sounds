@@ -1,114 +1,158 @@
-agent-already_logged_in: Vous êtes déjà connecté à la file d&#39;attente.
-agent-enter_pin: Se il vous plaît entrez votre centre d&#39;appel numéro d&#39;identification de l&#39;agent.
-agent-invalid_choice: Impossible d&#39;effectuer l&#39;action.
-agent-logged_in: Vous êtes maintenant connecté à la file d&#39;attente.
-agent-logged_out: Vous êtes maintenant connecté sur la file d&#39;attente.
-agent-not_call_center_agent: Vous n&#39;êtes pas configuré comme un agent de centre d&#39;appels. Se il vous plaît contactez votre administrateur système pour une assistance.
-agent-pause: Interruption de l&#39;activité.
-agent-resume: Reprise activité.
-camper-deny: Votre demande est refusée.
+agent-already_logged_in: Vous êtes déjà connecté à la file d'attente.
+agent-invalid_choice: Impossible d'effectuer l'action.
+agent-logged_in: Vous êtes maintenant connecté à la file d'attente.
+agent-logged_out: Vous êtes maintenant déconnecté de la file d'attente.
+agent-not_call_center_agent: Vous n'êtes pas configuré comme un agent de centre d'appels. Veuillez contacter votre administrateur système pour obtenir de l'aide.
+agent-pause: Mise en pause de l'activité.
+agent-resume: Reprise de l'activité.
+
+camper-deny: Votre demande est rejetée.
 camper-queue: Votre demande est acceptée.
-cf-now_forwarded_to: Les appels sont désormais transmises à
-cf-disabled: Le renvoi d&#39;appel est maintenant désactivée.
-cf-not_available: Le renvoi d&#39;appel ne est pas disponible sur cette ligne.
-cf-enter_number: Entrez le numéro de transmettre à, suivi de la touche dièse.
-cf-enabled_menu: Pour désactiver le renvoi d&#39;appel, appuyez sur 1 pour modifier le numéro, appuyez sur 2.
-cf-disabled_menu: Pour activer le renvoi d&#39;appel, appuyez sur 1 pour modifier le numéro, appuyez sur 2.
-cf-move-too_many_channels: L&#39;utilisateur attribué à l&#39;appareil est allumé plus d&#39;un appel. Cette fonction ne supporte pas les appels multiples.
-cf-move-no_channel: pas d&#39;appels trouvé pour l&#39;utilisateur affecté à ce dispositif.
-cf-move-no_owner: appel n&#39;a pas de propriétaire.
-cf-unauthorized_call: Vous n&#39;êtes pas autorisé à appeler ce type de numéro.
-conf-welcome: Bienvenue à la conférence.
-conf-enter_conf_number: Se il vous plaît entrer le numéro de la conférence, puis appuyez sur la livre.
-conf-enter_conf_pin: Se il vous plaît entrer votre code PIN, puis appuyez sur la livre.
-conf-bad_pin: Invalid numéro de broche.
+
+cf-disabled: Le renvoi d'appel est maintenant désactivé.
+cf-disabled_menu: Pour activer le renvoi d'appel, appuyez sur 1, pour modifier le numéro, appuyez sur 2.
+cf-enabled_menu: Pour désactiver le renvoi d'appel, appuyez sur 1, pour modifier le numéro, appuyez sur 2.
+cf-enter_number: Entrez le numéro à transférer, suivi de la touche dièse.
+cf-move-no_channel: Aucun appel trouvé pour l'utilisateur affecté à cet appareil.
+cf-move-no_owner: L'appel n'a pas de propriétaire.
+cf-move-too_many_channels: L'utilisateur assigné à l'appareil est sur plus d'un appel. Cette fonction ne prend pas en charge les appels multiples.
+cf-not_available: Le renvoi d'appel n'est pas disponible sur cette ligne.
+cf-now_forwarded_to: Les appels sont maintenant renvoyés vers
+cf-unauthorized_call: Vous n'êtes pas autorisé à appeler ce type de numéro.
+
+conf-alone: Vous êtes actuellement la seule personne présente dans cette conférence.
+conf-announce_your_name: Au signal sonore, veuillez annoncer votre nom, puis appuyez sur n'importe quelle touche ou arrêtez de parler pour mettre fin à l'enregistrement.
 conf-bad_conf: Numéro de conférence non valide.
-conf-to_many_attempts: Je suis désolé; il ya eu de nombreuses tentatives d&#39;accès à la conférence ..
-conf-alone: Vous êtes actuellement la seule personne dans cette conférence.
-conf-max_participants: Le nombre maximum de participants est déjà dans la conférence. S'il vous plaît réessayez plus tard.
-conf-single: Il ya seulement un autre participant à cette conférence.
+conf-bad_pin: Code `pine`, non valide.
+conf-deaf: Haut-parleur désactivé. Composez étoile 4, pour rétablir le son.
+conf-enter_conf_number: Veuillez entrez le numéro de conférence, puis appuyez sur la touche dièse.
+conf-enter_conf_pin: Veuillez entrez votre code `pine`, puis appuyez sur la touche dièse.
+conf-joining_conference: Vous êtes désormais connecté à la conférence.
+conf-max_participants: Le nombre maximum de participants est déjà atteint pour cette conférence. Veuillez réessayer plus tard.
+conf-muted: Microphone désactivé. Composez étoile 1, pour réactiver le microphone.
+conf-other_participants: Autres participants dans cette conférence.
+conf-review: Appuyez sur 1, pour accepter l'enregistrement ou appuyez sur n'importe quelle autre touche pour réenregistrer.
+conf-single: Il n'y a qu'un seul autre participant dans cette conférence.
 conf-there_are: Il y a
-conf-other_participants: d&#39;autres participants à cette conférence.
-conf-muted: Micro coupé, composez Star One pour enlever la sourdine.
-conf-unmuted: Microphone non coupé, composez étoiles une à couper.
-conf-deaf: Président en sourdine, composez le quatre étoiles pour enlever la sourdine.
-conf-undeaf: Président non coupé, composez le quatre étoiles pour couper.
-dir-confirm_menu: Appuyez sur 1. Pour recommencer appuyez sur 3.
-dir-enter_person: Se il vous plaît entrer les premières lettres des personnes
-dir-enter_person_firstname: Se il vous plaît entrer les premières lettres du prénom personnes.
-dir-enter_person_lastname: Se il vous plaît entrer les premières lettres du nom de famille des personnes.
+conf-too_many_attempts: Désolé, il y a eu trop de tentatives pour accéder à la conférence.
+conf-undeaf: Haut-parleur activé. Composez étoile 4, pour couper le son.
+conf-unmuted: Microphone activé. Composez étoile 1, pour désactiver le microphone.
+conf-welcome: Bienvenue dans la conférence.
+conf-your_announcment: Vous serez annoncé comme
+
+dir-confirm_menu: Appuyez sur 1. Pour recommencer, appuyez sur 3.
+dir-enter_person_firstname: Veuillez entrer les premières lettres du prénom de la personne.
+dir-enter_person_lastname: Veuillez entrer les premières lettres du nom de la personne.
+dir-enter_person: Veuillez entrer les premières lettres du nom de la personne.
 dir-first_name: prénom
-dir-found: 1 correspondance trouvée pour se connecter à
-dir-invalid_key: Touche incorrecte
-dir-last_name: nom de famille
-dir-letters_of_person_name: lettres du nom des personnes.
-dir-no_more_results: Plus de résultats.
-dir-no_results_found: Aucune correspondance trouvée.
-dir-result_menu: Appuyez sur 1. Pour le résultat suivant appuyez sur 2. Pour recommencer appuyez sur 3.
-dir-result_number: appeler
-dir-specify_minimum: Vous devez spécifier un minimum de deux chiffres.
-disa-enter_pin: Se il vous plaît entrer votre code PIN d&#39;accès au système, puis appuyez sur la livre.
-disa-invalid_pin: Invalid numéro de broche.
-disa-retries_exceeded: Je suis désolé; il ya eu de nombreuses tentatives avec broches incorrectes, au revoir.
-disa-invalid_extension: Impossible de trouver extension, se il vous plaît essayer à nouveau.
-dnd-activated: Ne pas déranger est maintenant activé. Vous ne serez pas receieve appels, y compris appel Forwarding tout ne distrub est activée.
-dnd-deactivated: Ne pas déranger est maintenant désactivé. Appels Receieving y compris appel Forwarding a repris.
-dnd-not_available: Ne pas déranger ne est pas pris en charge à partir de ce téléphone. Contactez votre administrateur système si vous beleive ce est dans l&#39;erreur.
-eavesdrop-no_channels: Pas de chaînes
-fault-can_not_be_completed_as_dialed: Votre appel ne peut pas être complété comme composé. Se il vous plaît vérifier le nombre et composer à nouveau.
-fault-facility_trouble: En raison de compagnie de téléphone installation troubler votre appel ne peut pas être réalisé à ce moment. Se il vous plaît essayer de votre appel ultérieurement.
-fault-can_not_be_completed_at_this_time: Votre appel ne peut pas être réalisé à ce moment. Se il vous plaît réessayer plus tard.
-hotdesk-abort: Désolé se il vous plaît réessayer plus tard.
-hotdesk-disabled: Votre profil de Hotdesk est désactivé. Se il vous plaît contactez l&#39;administrateur du système.
-hotdesk-enter_id: Se il vous plaît entrez votre Hotdesk id.
-hotdesk-enter_pin: Nous vous invitons à entrer votre code PIN de hot desking.
-hotdesk-invalid_entry: Ce ne est pas une entrée valide.
-hotdesk-logged_in: Vos appels seront maintenant venu de ce dispositif.
-hotdesk-logged_out: Vous ne aurez plus recevoir des appels sur ce dispositif.
-intercept-no_channels: Pas de chaînes
+dir-found: Une correspondance trouvée pour se connecter.
+dir-invalid_key: Touche invalide pressée.
+dir-last_name: nom
+dir-letters_of_person_name: lettres du nom de la personne.
+dir-no_more_results: Aucun résultat.
+dir-no_results_found: Aucun résultat trouvé.
+dir-result_menu: Appuyez sur 1. Pour le résultat suivant, appuyez sur 2. Pour recommencer, appuyez sur 3.
+dir-result_number: pour appeler
+dir-specify_minimum: Vous devez spécifier un minimum de 2 chiffres.
+
+disa-enter_pin: Veuillez entrer votre code d'accès au système, puis appuyez sur dièse.
+disa-invalid_extension: Impossible de trouver l'extension, veuillez réessayer.
+disa-invalid_pin: Code `pine`, invalide.
+disa-retries_exceeded: Désolé, il y a eu trop de tentatives avec des codes incorrects, au revoir.
+
+dnd-activated: L'option Ne pas déranger, est maintenant activée. Vous ne recevrez pas d'appels, y compris le renvoi d'appel, tant que la fonction Ne pas déranger, est activée.
+dnd-deactivated: La fonction Ne pas déranger, est maintenant désactivée. La réception d'appels, y compris le renvoi d'appel, a repris.
+dnd-not_available: La fonction Ne pas déranger, n'est pas prise en charge par ce téléphone. Contactez votre administrateur système si vous pensez qu'il s'agit d'une erreur.
+
+dynamic-cid-enter_cid: Entrez votre numéro d'appel, suivi de la touche dièse.
+dynamic-cid-invalid_using_default: Entrée invalide. Cet appel utilisera le numéro d'appelant par défaut.
+
+eavesdrop-no_channels: Aucun canal
+
+fault-can_not_be_completed_as_dialed: Votre appel ne peut aboutir tel qu'il a été composé. Veuillez vérifier le numéro et le recomposer.
+fault-can_not_be_completed_at_this_time: Votre appel ne peut aboutir pour le moment. Veuillez réessayer plus tard.
+fault-facility_trouble: En raison d'un problème d'installation de la compagnie de téléphone, votre appel ne peut aboutir pour le moment. Veuillez réessayer plus tard.
+
+hotdesk-abort: Désolé, veuillez réessayer plus tard.
+hotdesk-disabled: Votre profil hotdesk est désactivé. Veuillez contacter l'administrateur système.
+hotdesk-enter_id: Veuillez saisir votre identifiant hotdesk.
+hotdesk-enter_pin: Veuillez saisir votre code `pine`, hotdesk.
+hotdesk-invalid_entry: Cette entrée n'est pas valide.
+hotdesk-logged_in: Vos appels arriveront désormais sur cet appareil.
+hotdesk-logged_out: Vous ne recevrez plus d'appels sur cet appareil.
+
+intercept-no_channels: Aucun canal
 intercept-no_users: Aucun utilisateur trouvé
-ivr-group_confirm: Ce est un appel transmis. Appuyez sur 1 pour accepter ou raccrochage d&#39;ignorer.
-menu-no_prompt: L&#39;enregistrement pour ce menu n&#39;a pas été créée. Si vous connaissez le nombre de broches, composez-le maintenant d&#39;enregistrer l&#39;invite. Sinon, se il vous plaît essayer de votre appel ultérieurement. Merci.
-menu-transferring_call: Transfert de votre appel.
-menu-exit: Je suis désolé, nous ne avons pas été en mesure de reconnaître vos entrées.
+
+ivr-group_confirm: Ceci est un appel transféré. Appuyez sur 1 pour accepter, ou raccrochez pour ignorer.
+
+menu-exit: Désolé, nous n'avons pas été en mesure de reconnaître vos entrées.
 menu-invalid_entry: Entrée invalide.
-menu-returning: Transfert de votre appel vers le menu.
-park-already_in_use: Cette place de stationnement est déjà en cours d&#39;utilisation, se il vous plaît choisir une place de stationnement de number.This spot différente est déjà utilisé, se il vous plaît choisir un numéro de endroit différent.
-park-no_caller: Cette extension de stationnement est vide, l&#39;appelant peut avoir été récupéré par un utilisateur ou hungup différente.
-park-call_placed_in_spot: Appel mis en place de stationnement
-temporal-marked_closed: Votre bureau est maintenant marqué comme fermé. Le système continuera appels routage comme si le bureau est fermé, jusqu&#39;à ce que vous reprenez manuellement fonctionnement normal.
-temporal-marked_opened: Votre bureau est maintenant marqué comme ouvert. Le système continuera appels routage comme si le bureau est ouvert, jusqu&#39;à ce que vous reprenez manuellement fonctionnement normal.
-temporal-reset_rules: Routage d&#39;appel remis à fonctionner normalement. Les appels seront transférés sur la base du calendrier défini lorsque votre système a été configuré.
-temporal-menu: Temps routage des appels. Pour marquer le bureau comme ouvert, appuyez sur 1. Pour marquer le bureau comme fermé, appuyez sur 2. Pour reprendre le fonctionnement normal, appuyez sur 3.
-vm-abort: Je suis désolé, il ya eu trop de tentatives Échec de la connexion; au revoir.
-vm-main_menu: Pour entendre les nouveaux messages, appuyez sur l&#39;une. Pour écouter vos messages sauvegardés, appuyez sur deux. Pour modifier vos paramètres, appuyez sur cinq.
-vm-main_menu_not_configurable: Pour entendre les nouveaux messages, appuyez sur l&#39;une. Pour écouter vos messages sauvegardés, appuyez sur deux.
-vm-settings_menu: Pour enregistrer votre message d&#39;accueil, appuyez sur l&#39;une. Pour enregistrer votre nom, appuyez deux. Pour changer votre mot de passe, appuyez sur trois. Pour revenir au menu principal, appuyez sur zéro.
-vm-enter_id: Se il vous plaît entrer votre numéro de boîte aux lettres, puis appuyez sur la livre.
-vm-enter_new_pin_confirm: Pour confirmer, se il vous plaît entrez votre nouveau mot de passe, puis appuyez sur la livre.
-vm-enter_pass: Se il vous plaît entrer votre mot de passe, puis appuyez sur la livre.
-vm-fail_auth: Connexion incorrecte.
-vm-pin_invalid: Je suis désolé, les mots de passe ne correspondent pas ou ne peuvent pas être utilisés, se il vous plaît essayer de nouveau.
-vm-pin_set: Merci, votre nouveau mot de passe a été enregistré.
-vm-no_access: Je suis désolé, votre boîte aux lettres ne est pas configuré pour permettre l&#39;accès à partir de ce téléphone.
-vm-record_greeting: À la tonalité se il vous plaît dire votre message d&#39;accueil, puis appuyez sur une touche ou arrêter de parler pour terminer l&#39;enregistrement.
-vm-record_name: À la tonalité se il vous plaît dire votre nom, puis appuyez sur une touche ou cesser de parler pour terminer l&#39;enregistrement.
-vm-recording_saved: Enregistrement sauvé.
-vm-record_message: Enregistrez votre message après la tonalité, appuyez sur une touche ou cesser de parler pour terminer l&#39;enregistrement.
-vm-review_recording: Pour enregistrer cet enregistrement, appuyez sur l&#39;une. Pour écouter, appuyez sur deux. Pour ree rekord, appuyez sur trois.
-vm-you_have: Vous avez
+menu-no_prompt: L'enregistrement pour ce menu n'a pas été créé. Si vous connaissez le code `pine`, composez-le maintenant pour enregistrer le message. Sinon, veuillez réessayer plus tard. Merci.
+menu-return: Transfert de votre appel vers le menu.
+menu-transferring_call: Transférer votre appel.
+
+park-already_in_use: Ce stationnement est déjà utilisé, veuillez choisir un autre numéro de stationnement.
+park-call_placed_in_spot: Appel mis en stationnement.
+park-no_caller: Cette extension de stationnement est vide, l'appelant peut avoir été récupéré par un autre utilisateur ou avoir raccroché.
+
+pickup-no_channels: Aucun canal à récupérer.
+pickup-no_users: Aucun utilisateur trouvé dans le groupe.
+
+temporal-marked_disabled: Votre bureau est maintenant signalé comme étant fermé. Le système continuera à acheminer les appels comme si le bureau était fermé, jusqu'à ce que vous repreniez manuellement le fonctionnement normal.
+temporal-marked_enabled: Votre bureau est maintenant signalé comme étant ouvert. Le système continuera à acheminer les appels comme si le bureau était ouvert, jusqu'à ce que vous repreniez manuellement le fonctionnement normal.
+temporal-marker_reset: Le routage des appels est revenu au fonctionnement normal. Les appels seront acheminés en fonction de l'horaire défini lors de la configuration de votre système.
+temporal-menu: Routage des appels en fonction de l'horaire. Pour marquer le bureau comme ouvert, appuyez sur 1. Pour marquer le bureau comme étant fermé, appuyez sur 2. Pour reprendre le fonctionnement normal, appuyez sur 3.
+
+vm-abort: Désolé, il y a eu trop de tentatives infructueuses de connexion. Au revoir.
+vm-deleted: Supprimé.
+vm-enter_id: Veuillez saisir votre numéro de messagerie, puis appuyez sur dièse.
+vm-enter_forward_id: Veuillez saisir le numéro de la messagerie vers laquelle vous souhaitez transférer vos messages, puis appuyez sur dièse.
+vm-enter_new_pin_confirm: Pour confirmer, veuillez entrer à nouveau votre nouveau mot de passe, puis appuyez sur dièse.
+vm-enter_new_pin: Veuillez saisir votre nouveau mot de passe, puis appuyez sur dièse.
+vm-enter_pass: Veuillez saisir votre mot de passe, puis appuyez sur dièse.
+vm-fail_auth: Login incorrect.
+vm-forward_abort: Désolé, il y a eu trop de tentatives infructueuses pour trouver la boîte aux lettres de destination.
+vm-goodbye: Au revoir.
+vm-greeting_intro: L'abonné que vous tentez de joindre n'est pas disponible.
+vm-mailbox_full: La boîte vocale est pleine, veuillez renouveler votre appel ultérieurement.
+vm-main_menu_not_configurable: Pour écouter les nouveaux messages, appuyez sur un. Pour écouter vos messages sauvegardés, appuyez sur deux.
+vm-main_menu: Pour écouter les nouveaux messages, appuyez sur un. Pour écouter vos messages sauvegardés, appuyez sur deux. Pour modifier vos paramètres, appuyez sur cinq.
+vm-message_forwarding: Pour préparer un message, appuyez sur 1. Pour transférer un message sans le faire précéder, appuyez sur 2. Pour continuer à écouter vos messages, appuyez sur zéro.
+vm-message_menu: Pour sauvegarder, appuyez sur 1. Pour réécouter, appuyez sur 2. Pour transférer, appuyez sur 3. Pour supprimer, appuyez sur sept. Pour revenir au menu principal, appuyez sur zéro.
+vm-message_number: Message
+vm-new_and: nouveau et
 vm-new_message: nouveau message
 vm-new_messages: nouveaux messages
-vm-saved_message: message enregistré
-vm-saved_messages: messages enregistrés
-vm-new_and: nouveau
-vm-received: Reçu
-vm-message_menu: Pour enregistrer, appuyez sur l&#39;une. Pour rejouer, appuyez sur deux. Pour supprimer, appuyez sur sept. Pour revenir au menu principal, appuyez sur zéro.
-vm-mailbox_full: La boîte vocale est pleine, se il vous plaît essayer de votre appel ultérieurement.
-vm-not_available_no_voicemail: La personne que vous essayez d&#39;atteindre ne est pas disponible, et n&#39;a pas la messagerie vocale. Se il vous plaît essayer de votre appel ultérieurement.
-vm-person: La personne au poste
-vm-not_available: ne est pas disponible.
-vm-no_messages: Boîte aux lettres est vide.
-vm-message_number: Message
-vm-recording_to_short: L&#39;enregistrement était trop court pour être sauvé.
+vm-no_access: Désolé, votre messagerie n'est pas configurée pour permettre l'accès depuis ce téléphone.
+vm-no_messages: La messagerie est vide.
+vm-not_available: n'est pas disponible.
+vm-not_available_no_voicemail: La personne que vous essayez de joindre n'est pas disponible et n'a pas de messagerie vocale. Veuillez renouveler votre appel ultérieurement.
+vm-person_not_available: Veuillez laisser un message après le bip.
+vm-person: La personne à l'extension.
+vm-pin_invalid: Désolé, les mots de passe ne correspondent pas ou ne peuvent pas être utilisés, veuillez réessayer.
+vm-pin_set: Merci, votre nouveau mot de passe a été enregistré.
+vm-received: Reçu.
+vm-record_greeting: Au signal sonore, veuillez dire votre message d'accueil, puis appuyez sur n'importe quelle touche ou arrêtez de parler pour terminer l'enregistrement.
+vm-record_temp_greeting: Au signal sonore, veuillez dire votre message d'accueil provisoire, puis appuyez sur n'importe quelle touche ou arrêtez de parler pour terminer l'enregistrement.
+vm-recording_saved: Enregistrement sauvegardé.
+vm-recording_to_short: L'enregistrement était trop court pour être sauvegardé.
+vm-record_message: Enregistrez votre message au signal sonore, puis appuyez sur n'importe quelle touche ou arrêtez de parler pour mettre fin à l'enregistrement.
+vm-record_name: Au signal sonore, veuillez dire votre nom, puis appuyez sur n'importe quelle touche ou arrêtez de parler pour terminer l'enregistrement.
+vm-review_recording: Pour sauvegarder cet enregistrement, appuyez sur la touche 1. Pour écouter, appuyez sur la touche 2. Pour réenregistrer, appuyez sur la touche 3.
+vm-saved_message: Message sauvegardé
+vm-saved_messages: Messages sauvegardés
+vm-saved: Sauvegardé.
+vm-settings_menu: Pour enregistrer le message d'accueil de votre messagerie, appuyez sur 1. Pour enregistrer votre nom, appuyez sur 2. Pour modifier votre mot de passe, appuyez sur 3. Pour enregistrer et utiliser un message d'accueil provisoire, appuyez sur 4. Pour supprimer votre message d'accueil provisoire et rétablir votre message d'accueil normal, appuyez sur 5. Pour activer la messagerie d'annonce, appuyez sur 6. Pour revenir au menu principal, appuyez sur zéro.
+vm-settings_menu_announcement_on: Pour enregistrer votre message d'accueil de la messagerie, appuyez sur un. Pour enregistrer votre nom, appuyez sur 2. Pour modifier votre mot de passe, appuyez sur 3. Pour enregistrer et utiliser un message d'accueil provisoire, appuyez sur 4. Pour supprimer votre message d'accueil provisoire et rétablir votre message d'accueil normal, appuyez sur 5. Pour désactiver la messagerie d'annonce, appuyez sur six. Pour écouter vos messages, appuyez sur zéro.
+vm-setup_complete: Félicitations, votre messagerie a été configurée. Si vous souhaitez modifier l'un de ces paramètres ultérieurement, choisissez l'option 5 dans le menu principal de la messagerie.
+vm-setup_intro: Bienvenue dans votre messagerie. Nous allons ensemble personnaliser les paramètres. Commençons par définir votre mot de passe.
+vm-setup_rec_greeting: Maintenant, nous allons enregistrer le message d'accueil que les correspondants entendront lorsqu'ils arriveront sur votre messagerie.
 vm-thank_you: Merci de votre appel. Au revoir.
+vm-you_have: Vous avez
+
+cw-activated: L'appel en attente est maintenant activé, vous recevrez un nouvel appel entrant même si vous êtes en cours d'appel.
+cw-deactivated: L'appel en attente est maintenant désactivé, lorsque vous êtes déjà en communication, vous ne serez pas informé des nouveaux appels entrants.
+cw-not_available: L'appel en attente n'est pas pris en charge par ce téléphone. Veuillez contacter le service d'assistance si vous pensez qu'il s'agit d'une erreur.
+
+stepswitch-emergency_not_configured: Le compte à partir duquel vous composez le numéro n'est pas configuré pour les services d'urgence. Contactez votre administrateur système dès que possible pour ajouter la configuration des services d'urgence.
