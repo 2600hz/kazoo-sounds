@@ -1,4 +1,5 @@
 agent-already_logged_in: You are already logged into the queue.
+agent-enter_pin:
 agent-invalid_choice: Unable to perform action.
 agent-logged_in: You are now logged in to the queue.
 agent-logged_out: You are now logged out of the queue.
@@ -27,6 +28,8 @@ conf-bad_pin: Invalid pin number.
 conf-deaf: Speaker muted, dial star four to un-mute.
 conf-enter_conf_number: Please enter the conference number, then press pound.
 conf-enter_conf_pin: Please enter your pin, then press pound.
+conf-has_joined:
+conf-has_left:
 conf-joining_conference: You are now joining the conference.
 conf-max_participants: The maximum number of participants are already in the conference. Please try again later.
 conf-muted: Microphone muted, dial star one to un-mute.
@@ -40,10 +43,15 @@ conf-unmuted: Microphone un-muted, dial star one to mute.
 conf-welcome: Welcome to the conference.
 conf-your_announcment: You will be announced as
 
+cw-activated: Call waiting is now enabled, you will receive a new incoming call even when you are currently on another call.
+cw-deactivated: Call waiting is now disabled, when you are already on a call new incoming calls will not be sent to you.
+cw-not_available: Call waiting is not supported from this phone. Please contact support if you believe this is in error.
+
 dir-confirm_menu: Press 1. To start over press 3.
+dir-enter_person: Please enter the first few letters of the person.
 dir-enter_person_firstname: Please enter the first few letters of the person's first name.
 dir-enter_person_lastname: Please enter the first few letters of the person's last name.
-dir-enter_person: Please enter the first few letters of the person.
+dir-enter_person_name:
 dir-first_name: first name
 dir-found: One match found to connect to.
 dir-invalid_key: Invalid key pressed.
@@ -99,25 +107,43 @@ park-no_caller: This parking extension is empty, the caller may have been retrie
 pickup-no_channels: No channels to pickup.
 pickup-no_users: No users found in group.
 
+queue-about_10_minutes:
+queue-about_15_minutes:
+queue-about_1_hour:
+queue-about_30_minutes:
+queue-about_45_minutes:
+queue-about_5_minutes:
+queue-at_least_1_hour:
+queue-increase_in_call_volume:
+queue-in_the_queue:
+queue-less_than_1_minute:
+queue-the_estimated_wait_time_is:
+queue-you_are_at_position:
+
+stepswitch-emergency_not_configured: The account you are dialing from, is not configured for emergency services. Contact your system administrator as soon as possible to add the emergency service configuration.
+
+temporal-marked_closed:
 temporal-marked_disabled: Your office is now marked as closed. The system will continue routing calls as though the office is closed, until you manually resume normal operation.
 temporal-marked_enabled: Your office is now marked as open. The system will continue routing calls as though the office is open, until you manually resume normal operation.
+temporal-marked_opened:
 temporal-marker_reset: Call routing returned to normal operation. Calls will be routed based on the schedule defined when your system was configured.
 temporal-menu: Time based call routing. To mark the office as open, press 1. To mark the office as closed, press 2. To resume normal operation, press 3.
 
 vm-abort: I'm sorry, there have been too many failed attempts to log in. Goodbye.
 vm-deleted: Deleted.
-vm-enter_id: Please enter your mailbox number, then press pound.
 vm-enter_forward_id: Please enter the mailbox number you wish to forward to, then press pound.
-vm-enter_new_pin_confirm: To confirm, please enter your new password again, then press pound.
+vm-enter_id: Please enter your mailbox number, then press pound.
 vm-enter_new_pin: Please enter your new password, then press pound.
+vm-enter_new_pin_confirm: To confirm, please enter your new password again, then press pound.
 vm-enter_pass: Please enter your password, then press pound.
 vm-fail_auth: Log in incorrect.
 vm-forward_abort: I'm sorry, there have been too many failed attempts to find the destination mailbox.
+vm-forward_confirmed:
 vm-goodbye: Goodbye.
 vm-greeting_intro: The subscriber you are trying to reach is unavailable.
 vm-mailbox_full: The voicemail box is full, please try your call again later.
-vm-main_menu_not_configurable: To hear new messages, press one. To hear your saved messages, press two.
 vm-main_menu: To hear new messages, press one. To hear your saved messages, press two. To change your settings, press five.
+vm-main_menu_not_configurable: To hear new messages, press one. To hear your saved messages, press two.
 vm-message_forwarding: To prepend a message, press one. To forward without prepending, press two. To continue listening to your messages, press zero.
 vm-message_menu: To save, press one. To replay, press two. To forward, press three. To delete, press seven. To return to the main menu, press zero.
 vm-message_number: Message
@@ -128,21 +154,21 @@ vm-no_access: I'm sorry, your mailbox is not configured to allow access from thi
 vm-no_messages: Mailbox is empty.
 vm-not_available: is not available.
 vm-not_available_no_voicemail: The person you are trying to reach is not available, and does not have voicemail. Please try your call again later.
-vm-person_not_available: Please leave a message after the tone.
 vm-person: The person at extension
+vm-person_not_available: Please leave a message after the tone.
 vm-pin_invalid: I'm sorry, the passwords did not match or cannot be used, please try again.
 vm-pin_set: Thank you, your new password has been saved.
 vm-received: Received
 vm-record_greeting: At the tone, please say your greeting, then press any key or stop talking to end the recording.
-vm-record_temp_greeting: At the tone, please say your temporary greeting, then press any key or stop talking to end the recording.
 vm-recording_saved: Recording saved.
 vm-recording_to_short: The recording was too short to be saved.
 vm-record_message: Record your message at the tone, press any key or stop talking to end the recording.
 vm-record_name: At the tone, please say your name, then press any key or stop talking to end the recording.
+vm-record_temp_greeting: At the tone, please say your temporary greeting, then press any key or stop talking to end the recording.
 vm-review_recording: To save this recording, press one. To listen, press two. To re-record, press three.
+vm-saved: Saved.
 vm-saved_message: saved message
 vm-saved_messages: saved messages
-vm-saved: Saved.
 vm-settings_menu: To record your mailbox greeting, press one. To record your name, press two. To change your password, press three. To record and use a temporary greeting, press four. To delete your temporary greeting and restore your normal greeting, press five. To enable announcement mailbox, press six. To return to the main menu, press zero.
 vm-settings_menu_announcement_on: To record your mailbox greeting, press one. To record your name, press two. To change your password, press three. To record and use a temporary greeting, press four. To delete your temporary greeting and restore your normal greeting, press five. To disable announcement mailbox, press six. To hear your messages, press zero.
 vm-setup_complete: Congratulations, your mailbox has been configured. If you would like to change any of these settings later, choose option 5 from the mailbox main menu.
@@ -151,8 +177,15 @@ vm-setup_rec_greeting: Now let's record the greeting that callers will hear when
 vm-thank_you: Thank you for calling. Goodbye.
 vm-you_have: You have
 
-cw-activated: Call waiting is now enabled, you will receive a new incoming call even when you are currently on another call.
-cw-deactivated: Call waiting is now disabled, when you are already on a call new incoming calls will not be sent to you.
-cw-not_available: Call waiting is not supported from this phone. Please contact support if you believe this is in error.
 
-stepswitch-emergency_not_configured: The account you are dialing from, is not configured for emergency services. Contact your system administrator as soon as possible to add the emergency service configuration.
+
+external-number-request_for: A request has been made to use the phone number
+external-number-description: as the caller identification for calls that may not come from this phone.  If you did not make this request, or do not wish your identification to be used this way, please do not share the following authorization code.
+
+general-hello: Hello!
+general-and: and
+general-again: again
+general-once_more: once more
+general-thank_you: Thank you!
+general-goodbye: Goodbye.
+general-authorization_code: The authorization code is
