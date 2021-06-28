@@ -6,6 +6,18 @@ agent-not_call_center_agent: You are not configured as a call center agent. Plea
 agent-pause: Pausing activity.
 agent-resume: Resuming activity.
 
+queue-about_10_minutes: About ten minutes.
+queue-about_15_minutes: About fifteen minutes.
+queue-about_1_hour: About one hour.
+queue-about_30_minutes: About thirty minutes.
+queue-about_45_minutes: About fourty five minutes.
+queue-about_5_minutes: About five minutes.
+queue-increase_in_call_volume: We are experiencing an increase in call volume.
+queue-in_the_queue: In the queue.
+queue-less_than_1_minute: Less than one minute.
+queue-the_estimated_wait_time_is: The estimated wait time is.
+queue-you_are_at_position: You are at position.
+
 camper-deny: Your request is denied.
 camper-queue: Your request is accepted.
 
