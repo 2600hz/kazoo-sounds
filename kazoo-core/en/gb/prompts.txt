@@ -6,6 +6,18 @@ agent-not_call_center_agent: You are not configured as a call center agent. Plea
 agent-pause: Pausing activity.
 agent-resume: Resuming activity.
 
+queue-about_10_minutes: About ten minutes.
+queue-about_15_minutes: About fifteen minutes.
+queue-about_1_hour: About one hour.
+queue-about_30_minutes: About thirty minutes.
+queue-about_45_minutes: About fourty five minutes.
+queue-about_5_minutes: About five minutes.
+queue-increase_in_call_volume: We are experiencing an increase in call volume.
+queue-in_the_queue: In the queue.
+queue-less_than_1_minute: Less than one minute.
+queue-the_estimated_wait_time_is: The estimated wait time is.
+queue-you_are_at_position: You are at position.
+
 camper-deny: Your request is denied.
 camper-queue: Your request is accepted.
 
@@ -156,3 +168,14 @@ cw-deactivated: Call waiting is now disabled, when you are already on a call new
 cw-not_available: Call waiting is not supported from this phone. Please contact support if you believe this is in error.
 
 stepswitch-emergency_not_configured: The account you are dialing from, is not configured for emergency services. Contact your system administrator as soon as possible to add the emergency service configuration.
+
+external-number-request_for: A request has been made to use the phone number
+external-number-description: as the caller identification for calls that may not come from this phone.  If you did not make this request, or do not wish your identification to be used this way, please do not share the following authorization code.
+external-ivr_verification: as the caller identification for calls that may not come from this phone.  If you did not make this request, or do not wish your identification to be used this way, simply hangup.  If you would like to allow your caller identification to be used by other phones, press one now.
+general-hello: Hello!
+general-and: and
+general-again: again
+general-once_more: once more
+general-thank_you: Thank you!
+general-goodbye: Goodbye.
+general-authorization_code: The authorization code is
