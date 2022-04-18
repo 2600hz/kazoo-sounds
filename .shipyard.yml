@@ -1,5 +1,5 @@
 name: kazoo-configs-core
-base_branch: origin/master
+base_branch: origin/5.1
 base_core: null
 template: spec.tmpl
 package:
@@ -31,32 +31,32 @@ metapackage:
     name: meta-kazoo-applications
     package: kazoo-sounds-core-en-us
     type: required
-    branch: '5.0'
+    branch: '5.1'
   -
     name: meta-kazoo-applications
     package: kazoo-sounds-core-es-es
     type: required
-    branch: '5.0'
+    branch: '5.1'
   -
     name: meta-kazoo-applications
     package: kazoo-sounds-core-fr-ca
     type: required
-    branch: '5.0'
+    branch: '5.1'
   -
     name: meta-kazoo-applications
     package: kazoo-sounds-core-ru-ru
     type: required
-    branch: '5.0'
+    branch: '5.1'
   -
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-en-us
     type: required
-    branch: '5.0'
+    branch: '5.1'
   -
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-fr-ca
     type: required
-    branch: '5.0'
+    branch: '5.1'
   -
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-music-8000
@@ -66,4 +66,4 @@ metapackage:
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-ru-ru
     type: required
-    branch: '5.0'
+    branch: '5.1'
