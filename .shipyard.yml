@@ -62,7 +62,7 @@ metapackage:
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-music-8000
     type: required
-    branch: '5.0'
+    branch: '5.1'
   -
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-ru-ru
