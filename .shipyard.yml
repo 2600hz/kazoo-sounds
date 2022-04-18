@@ -1,4 +1,4 @@
-name: kazoo-configs-core
+name: kazoo-sounds
 base_branch: origin/5.1
 base_core: null
 template: spec.tmpl
