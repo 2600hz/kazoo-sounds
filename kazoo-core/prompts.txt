@@ -84,6 +84,7 @@ eavesdrop-no_channels: No channels
 fault-can_not_be_completed_as_dialed: Your call cannot be completed as dialed. Please check the number and dial again.
 fault-can_not_be_completed_at_this_time: Your call cannot be completed at this time. Please try again later.
 fault-facility_trouble: Due to telephone company facility trouble your call cannot be completed at this time. Please try your call again later.
+fault-too_many_invalid_entries: I am sorry, there have been too many invalid entries. Goodbye.
 
 hotdesk-abort: Sorry please try again later.
 hotdesk-disabled: Your hotdesk profile is disabled. Please contact the system administrator.
