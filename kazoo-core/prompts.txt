@@ -171,7 +171,7 @@ stepswitch-emergency_not_configured: The account you are dialing from, is not co
 
 external-number-request_for: A request has been made to use the phone number
 external-number-description: as the caller identification for calls that may not come from this phone.  If you did not make this request, or do not wish your identification to be used this way, please do not share the following authorization code.
-external-ivr_verification: as the caller identification for calls that may not come from this phone.  If you did not make this request, or do not wish your identification to be used this way, simply hangup.  If you would like to allow your caller identification to be used by other phones, press one now.
+external-number-ivr_verification: as the caller identification for calls that may not come from this phone.  If you did not make this request, or do not wish your identification to be used this way, simply hangup.  If you would like to allow your caller identification to be used by other phones, press one now.
 
 general-again: again
 general-and: and
