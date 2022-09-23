@@ -176,7 +176,7 @@ external-number-ivr_verification: as the caller identification for calls that ma
 general-again: again
 general-and: and
 general-authorization_code: The authorization code is
-general-call-is-being-recorded: This call is being recorded.
+general-call_is_being_recorded: This call is being recorded.
 general-goodbye: Goodbye.
 general-hello: Hello!
 general-once_more: once more
