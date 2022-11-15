@@ -104,7 +104,9 @@ temporal-marked_enabled: Ahora, se indica que su oficina está abierta. El siste
 temporal-marker_reset: El enrutamiento de llamadas volvió a su operación normal. Las llamadas se enrutarán de acuerdo al programa definido cuando se configuró su sistema.
 temporal-menu: Enrutamiento de llamadas por tiempo. Para seleccionar la oficina como abierta, presione 1. Para seleccionar la oficina como cerrada, presione 2. Para reanudar la operación normal, presione 3.
 
+vm-a_call_from: una llamada de
 vm-abort: Lo sentimos, ha habido demasiados intentos fallidos para iniciar sesión. Adiós.
+vm-at: a
 vm-deleted: Eliminado.
 vm-enter_id: Por favor, ingrese su número de buzón, luego presione la tecla numeral.
 vm-enter_forward_id: Por favor, ingrese el número de buzón al que desea enviar, luego presione la tecla numeral.
