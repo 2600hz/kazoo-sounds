@@ -104,7 +104,9 @@ temporal-marked_enabled: Ihr Büro ist nun als geöffnet gekennzeichnet. Das Sys
 temporal-marker_reset: Die Anrufweiterleitung kehrt zum normalen Betrieb zurück. Die Anrufe werden auf der Grundlage des Zeitplans weitergeleitet, der bei der Konfiguration Ihres Systems festgelegt wurde.
 temporal-menu: Zeitbasierte Rufumleitung. Um das Büro als geöffnet zu markieren, drücken Sie 1. Um das Büro als geschlossen zu markieren, drücken Sie 2. Um den normalen Betrieb wieder aufzunehmen, drücken Sie 3.
 
+vm-a_call_from: ein Anruf von
 vm-abort: Es tut mir leid, es gab zu viele fehlgeschlagene Versuche, sich anzumelden. Auf Wiedersehen.
+vm-at: bei
 vm-deleted: Gelöscht.
 vm-enter_id: Bitte geben Sie Ihre Mailbox-Rufnummer ein und drücken Sie dann die Rautetaste.
 vm-enter_forward_id: Bitte geben Sie die Nummer der Mailbox ein, an die Sie weiterleiten möchten, und drücken Sie dann die Rautetaste.

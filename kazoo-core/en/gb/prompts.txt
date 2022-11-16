@@ -116,7 +116,9 @@ temporal-marked_enabled: Your office is now marked as open. The system will cont
 temporal-marker_reset: Call routing returned to normal operation. Calls will be routed based on the schedule defined when your system was configured.
 temporal-menu: Time based call routing. To mark the office as open, press 1. To mark the office as closed, press 2. To resume normal operation, press 3.
 
+vm-a_call_from: A call from
 vm-abort: I'm sorry, there have been too many failed attempts to log in. Goodbye.
+vm-at: at
 vm-deleted: Deleted.
 vm-enter_id: Please enter your mailbox number, then press hash.
 vm-enter_forward_id: Please enter the mailbox number you wish to forward to, then press hash.

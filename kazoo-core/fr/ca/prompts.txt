@@ -104,7 +104,9 @@ temporal-marked_enabled: Votre bureau est maintenant signalé comme étant ouver
 temporal-marker_reset: Le routage des appels est revenu au fonctionnement normal. Les appels seront acheminés en fonction de l'horaire défini lors de la configuration de votre système.
 temporal-menu: Routage des appels en fonction de l'horaire. Pour marquer le bureau comme ouvert, appuyez sur 1. Pour marquer le bureau comme étant fermé, appuyez sur 2. Pour reprendre le fonctionnement normal, appuyez sur 3.
 
+vm-a_call_from: un appel de
 vm-abort: Désolé, il y a eu trop de tentatives infructueuses de connexion. Au revoir.
+vm-at: à
 vm-deleted: Supprimé.
 vm-enter_id: Veuillez saisir votre numéro de messagerie, puis appuyez sur dièse.
 vm-enter_forward_id: Veuillez saisir le numéro de la messagerie vers laquelle vous souhaitez transférer vos messages, puis appuyez sur dièse.
