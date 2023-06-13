@@ -6,6 +6,18 @@ agent-not_call_center_agent: Sie sind nicht als Call-Center-Agent konfiguriert. 
 agent-pause: Pausieren der Aktivität.
 agent-resume: Wiederaufnahme der Aktivität.
 
+queue-about_10_minutes: etwa zehn Minuten
+queue-about_15_minutes: etwa fünfzehn Minuten
+queue-about_1_hour: ungefähr eine Stunde
+queue-about_30_minutes: etwa dreißig Minuten
+queue-about_45_minutes: ungefähr fünfundvierzig Minuten
+queue-about_5_minutes: etwa fünf Minuten
+queue-increase_in_call_volume: Wir verzeichnen einen Anstieg des Anrufvolumens
+queue-in_the_queue: in der Warteschlange
+queue-less_than_1_minute: weniger als eine Minute
+queue-the_estimated_wait_time_is: Die geschätzte Wartezeit beträgt
+queue-you_are_at_position: Du bist am richtigen Platz
+
 camper-deny: Ihre Anfrage wird abgelehnt.
 camper-queue: Ihre Anfrage wird angenommen.
 
