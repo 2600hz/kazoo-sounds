@@ -13,7 +13,7 @@ queue-about_30_minutes: Alrededor de treinta minutos.
 queue-about_45_minutes: Alrededor de cuarenta y cinco minutos.
 queue-about_5_minutes: Alrededor de cinco minutos.
 queue-increase_in_call_volume: Estamos experimentando un aumento en el volumen de llamadas.
-queue-in_the_queue: En la cola.
+queue-in_the_queue: De la cola.
 queue-less_than_1_minute: Menos de un minuto.
 queue-the_estimated_wait_time_is: El tiempo estimado de espera es.
 queue-you_are_at_position: Estas en posicion.
