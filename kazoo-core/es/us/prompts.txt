@@ -6,6 +6,18 @@ agent-not_call_center_agent: No está configurado como agente del call center. P
 agent-pause: Deteniendo la actividad.
 agent-resume: Reanudando la actividad.
 
+queue-about_10_minutes: Alrededor de diez minutos.
+queue-about_15_minutes: Alrededor de quince minutos.
+queue-about_1_hour: Alrededor de una hora.
+queue-about_30_minutes: Alrededor de treinta minutos.
+queue-about_45_minutes: Alrededor de cuarenta y cinco minutos.
+queue-about_5_minutes: Alrededor de cinco minutos.
+queue-increase_in_call_volume: Estamos experimentando un aumento en el volumen de llamadas.
+queue-in_the_queue: De la cola.
+queue-less_than_1_minute: Menos de un minuto.
+queue-the_estimated_wait_time_is: El tiempo estimado de espera es.
+queue-you_are_at_position: Estas en posicion.
+
 camper-deny: Su solicitud ha sido denegada.
 camper-queue: Su solicitud ha sido aceptada.
 
