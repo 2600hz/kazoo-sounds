@@ -23,6 +23,8 @@ camper-queue: Su solicitud ha sido aceptada.
 
 cf-disabled: La transferencia de llamadas está desactivada.
 cf-disabled_menu: Para activar la transferencia de llamadas presione 1, para cambiar el numero presione 2.
+cf-doorman_greeting: Por favor, diga su nombre después del tono.
+cf-doorman_unreachable: No se pudo contactar con la persona a la que ha llamado. ¡Adiós!
 cf-enabled_menu: Para desactivar la transferencia de llamadas presione 1, para cambiar el numero presione 2.
 cf-enter_number: Ingrese el numero al que se transferirá, seguido de la tecla numeral.
 cf-move-no_channel: No se encontraron llamadas para el usuario asignado a este dispositivo.

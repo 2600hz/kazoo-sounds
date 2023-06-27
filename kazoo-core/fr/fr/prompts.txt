@@ -35,6 +35,8 @@ camper-queue: Votre demande est acceptée.
 
 cf-disabled: Le transfert d'appel est maintenant désactivé.
 cf-disabled_menu: Pour activer le transfert d'appel, appuyez sur 1, pour modifier le numéro, appuyez sur 2.
+cf-doorman_greeting: Veuillez indiquer votre nom après le bip sonore.
+cf-doorman_unreachable: Désolé, nous n'avons pas réussi à joindre votre correspondent. Au revoir!
 cf-enabled_menu: Pour désactiver le transfert d'appel, appuyez sur 1, pour modifier le numéro, appuyez sur 2.
 cf-enter_number: Entrez le numéro à transférer, suivi de la touche dièse.
 cf-move-no_channel: Aucun appel trouvé pour l'utilisateur affecté à cet appareil.

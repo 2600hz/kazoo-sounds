@@ -23,6 +23,8 @@ camper-queue: Your request is accepted.
 
 cf-disabled: Call forwarding is now disabled.
 cf-disabled_menu: To enable call forwarding press 1, to change the number press 2.
+cf-doorman_greeting: Please state your name after the tone.
+cf-doorman_unreachable: The party you have dialed could not be reached. Good bye!
 cf-enabled_menu: To disable call forwarding press 1, to change the number press 2.
 cf-enter_number: Enter the number to forward to, followed by the hash key.
 cf-move-no_channel: No calls found for the user assigned to this device.
