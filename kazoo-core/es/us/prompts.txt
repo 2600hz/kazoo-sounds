@@ -142,6 +142,7 @@ vm-no_access: Lo sentimos, su buzón no está configurado para permitir el acces
 vm-no_messages: El buzón está vacío.
 vm-not_available: no está disponible.
 vm-not_available_no_voicemail: La persona a la que intenta contactar no está disponible y no tiene correo de voz. Por favor, intente llamar de nuevo más tarde.
+vm-on: en
 vm-person_not_available: Por favor, deje un mensaje después del tono.
 vm-person: La persona en la extensión
 vm-pin_invalid: Lo sentimos, las contraseñas no coinciden o no pueden usarse, por favor inténtelo de nuevo.

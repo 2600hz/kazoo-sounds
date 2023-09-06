@@ -154,6 +154,7 @@ vm-no_access: Désolé, votre messagerie n'est pas configurée pour permettre l'
 vm-no_messages: La messagerie est vide.
 vm-not_available: n'est pas disponible.
 vm-not_available_no_voicemail: La personne que vous essayez de joindre n'est pas disponible et n'a pas de messagerie vocale. Veuillez renouveler votre appel ultérieurement.
+vm-on: sur
 vm-person_not_available: Veuillez laisser un message après le bip.
 vm-person: La personne à l'extension.
 vm-pin_invalid: Désolé, les mots de passe ne correspondent pas ou ne peuvent pas être utilisés, veuillez réessayer.
