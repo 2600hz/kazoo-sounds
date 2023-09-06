@@ -130,6 +130,7 @@ vm-no_access: Es tut mir leid, Ihre Mailbox ist nicht so konfiguriert, dass der 
 vm-no_messages: Mailbox ist leer.
 vm-not_available: ist nicht verfügbar.
 vm-not_available_no_voicemail: Die Person, die Sie zu erreichen versuchen, ist nicht erreichbar und hat keine Voicemail. Bitte versuchen Sie es später noch einmal.
+vm-on: An
 vm-person_not_available: Bitte hinterlassen Sie eine Nachricht nach dem Ton.
 vm-person: Die Person an der Durchwahl
 vm-pin_invalid: Es tut mir leid, die Passwörter stimmten nicht überein oder können nicht verwendet werden, bitte versuchen Sie es erneut.

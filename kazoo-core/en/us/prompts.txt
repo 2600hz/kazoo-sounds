@@ -143,6 +143,7 @@ vm-no_access: I'm sorry, your mailbox is not configured to allow access from thi
 vm-no_messages: Mailbox is empty.
 vm-not_available: is not available.
 vm-not_available_no_voicemail: The person you are trying to reach is not available, and does not have voicemail. Please try your call again later.
+vm-on: on
 vm-person_not_available: Please leave a message after the tone.
 vm-person: The person at extension
 vm-pin_invalid: I'm sorry, the passwords did not match or cannot be used, please try again.
