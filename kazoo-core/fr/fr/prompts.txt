@@ -67,6 +67,7 @@ conf-your_announcment: Vous serez annoncé comme
 dir-confirm_menu: Appuyez sur 1. Pour recommencer, appuyez sur 3.
 dir-enter_person_firstname: Veuillez entrer les premières lettres du prénom de la personne.
 dir-enter_person_lastname: Veuillez entrer les premières lettres du nom de la personne.
+dir-enter_person_name: Veuillez saisir les premières lettres du nom de la personne.
 dir-enter_person: Veuillez entrer les premières lettres du nom de la personne.
 dir-first_name: prénom
 dir-found: Une correspondance trouvée pour se connecter.
