@@ -55,6 +55,7 @@ conf-your_announcment: Sie werden angekündigt als
 dir-confirm_menu: Drücken Sie 1. Um neu zu beginnen, drücken Sie 3.
 dir-enter_person_firstname: Bitte geben Sie die ersten Buchstaben des Vornamens der Person ein.
 dir-enter_person_lastname: Bitte geben Sie die ersten Buchstaben des Nachnamens der Person ein.
+dir-enter_person_name: Bitte geben Sie die ersten paar Buchstaben des Namens der Person ein.
 dir-enter_person: Bitte geben Sie die ersten Buchstaben der Person ein.
 dir-first_name: Vorname
 dir-found: Ein Match gefunden, mit dem eine Verbindung hergestellt werden kann.
