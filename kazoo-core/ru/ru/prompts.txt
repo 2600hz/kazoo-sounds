@@ -43,6 +43,7 @@ conf-your_announcment: Вы будете представлены как
 dir-confirm_menu: Нажмите 1. Чтобы начать заново – нажмите 3.
 dir-enter_person_firstname: Пожалуйста, введите первые несколько букв имени.
 dir-enter_person_lastname: Пожалуйста, введите первые несколько букв фамилии.
+dir-enter_person_name: Пожалуйста, введите первые несколько букв имени человека.
 dir-enter_person: Пожалуйста, введите первые несколько букв 
 dir-first_name: имя
 dir-found: найдено одно совпадение
