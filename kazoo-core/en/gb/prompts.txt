@@ -55,6 +55,7 @@ conf-your_announcment: You will be announced as
 dir-confirm_menu: Press 1. To start over press 3.
 dir-enter_person_firstname: Please enter the first few letters of the person's first name.
 dir-enter_person_lastname: Please enter the first few letters of the person's last name.
+dir-enter_person_name: Please enter the first few letters of the person's name.
 dir-enter_person: Please enter the first few letters of the person.
 dir-first_name: first name
 dir-found: One match found to connect to.
