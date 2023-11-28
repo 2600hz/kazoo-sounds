@@ -23,6 +23,8 @@ camper-queue: Ihre Anfrage wird angenommen.
 
 cf-disabled: Die Rufumleitung ist nun deaktiviert.
 cf-disabled_menu: Um die Rufumleitung zu aktivieren, drücken Sie 1, um die Nummer zu ändern, drücken Sie 2.
+cf-doorman_greeting: Bitte sagen Sie Ihren Namen nach dem Ton.
+cf-doorman_unreachable: Der passende Ansprechpartner für Ihr Anliegen konnte nicht erreicht werden. Auf Wiederhören.
 cf-enabled_menu: Um die Rufumleitung zu deaktivieren, drücken Sie 1, um die Nummer zu ändern, drücken Sie 2.
 cf-enter_number: Geben Sie die Nummer ein, an die weitergeleitet werden soll, gefolgt von der Quadrattaste.
 cf-move-no_channel: Keine Anrufe für den diesem Gerät zugewiesenen Benutzer gefunden.
