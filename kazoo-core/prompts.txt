@@ -92,7 +92,7 @@ fault-too_many_invalid_entries: I am sorry, there have been too many invalid ent
 hotdesk-abort: Sorry please try again later.
 hotdesk-disabled: Your hotdesk profile is disabled. Please contact the system administrator.
 hotdesk-enter_id: Please enter your hotdesk id.
-hotdesk-enter_pin: Pease enter your hotdesk pin code.
+hotdesk-enter_pin: Please enter your hotdesk pin code.
 hotdesk-invalid_entry: That is not a valid entry.
 hotdesk-logged_in: Your calls will now come to this device.
 hotdesk-logged_out: You will no longer receive calls on this device.
