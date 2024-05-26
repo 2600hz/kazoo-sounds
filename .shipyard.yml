@@ -1,7 +1,7 @@
 name: kazoo-configs-core
 custom_files: null
 exposure: private
-base_branch: origin/5.3
+base_branch: origin/5.4
 base_core: null
 template: spec.tmpl
 package:
@@ -79,40 +79,40 @@ metapackage:
     name: meta-kazoo-applications
     package: kazoo-sounds-core-en-us
     type: required
-    branch: '5.3'
+    branch: '5.4'
   -
     name: meta-kazoo-applications
     package: kazoo-sounds-core-es-es
     type: required
-    branch: '5.3'
+    branch: '5.4'
   -
     name: meta-kazoo-applications
     package: kazoo-sounds-core-fr-ca
     type: required
-    branch: '5.3'
+    branch: '5.4'
   -
     name: meta-kazoo-applications
     package: kazoo-sounds-core-ru-ru
     type: required
-    branch: '5.3'
+    branch: '5.4'
   -
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-en-us
     type: required
-    branch: '5.3'
+    branch: '5.4'
   -
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-fr-ca
     type: required
-    branch: '5.3'
+    branch: '5.4'
   -
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-music-8000
     type: required
-    branch: '5.3'
+    branch: '5.4'
   -
     name: meta-kazoo-freeswitch
     package: kazoo-sounds-freeswitch-ru-ru
     type: required
-    branch: '5.3'
+    branch: '5.4'
 dependencies: null
