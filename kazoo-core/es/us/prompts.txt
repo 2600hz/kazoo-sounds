@@ -169,6 +169,10 @@ vm-setup_rec_greeting: Ahora, vamos a grabar el saludo que escucharán las perso
 vm-thank_you: Gracias por llamar. Adiós.
 vm-you_have: Usted tiene
 
+cr-no_last_caller: No se encontró la última persona que llamó.
+cr-anonymous_caller: Llamada anónima. No se permiten devoluciones de llamada.
+cr-disabled: devolución de llamada deshabilitada.
+
 cw-activated: Ahora está activada la llamada en espera, usted recibirá una nueva llamada entrante incluso si se encuentra en otra llamada.
 cw-deactivated: Ahora está desactivada la llamada en espera, no recibirá nuevas llamadas entrantes si usted ya se encuentra en una llamada.
 cw-not_available: La llamada en espera no es compatible con este teléfono. Por favor, póngase en contacto con soporte técnico si cree que se trata de un error.
