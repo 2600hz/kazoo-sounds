@@ -169,6 +169,10 @@ vm-setup_rec_greeting: Lassen Sie uns nun die Ansage aufnehmen, die Anrufer hör
 vm-thank_you: Danke, dass Sie angerufen haben. Auf Wiedersehen.
 vm-you_have: Sie haben
 
+cr-no_last_caller: Kein letzter Anrufer gefunden.
+cr-anonymous_caller: Anonymer Anrufer. Rückruf nicht möglich.
+cr-disabled: Rückruf des letzten Anrufers ist nicht gestattet.
+
 cw-activated: Anklopfen ist jetzt aktiviert, Sie erhalten einen neuen eingehenden Anruf auch dann, wenn Sie gerade ein anderes Gespräch führen.
 cw-deactivated: Anklopfen ist jetzt deaktiviert, wenn Sie bereits ein Gespräch führen, werden neue eingehende Anrufe nicht an Sie weitergeleitet.
 cw-not_available: Anklopfen wird von diesem Telefon nicht unterstützt. Bitte kontaktieren Sie den Support, wenn Sie glauben, dass dies ein Fehler ist.
