@@ -169,6 +169,10 @@ vm-setup_rec_greeting: Maintenant, nous allons enregistrer le message d'accueil 
 vm-thank_you: Merci de votre appel. Au revoir.
 vm-you_have: Vous avez
 
+cr-no_last_caller: Aucun dernier appelant trouvé.
+cr-anonymous_caller: Appel anonyme. Rappel impossible.
+cr-disabled: L'appel du dernier appelant est désactivé.
+
 cw-activated: L'appel en attente est maintenant activé, vous recevrez un nouvel appel entrant même si vous êtes en cours d'appel.
 cw-deactivated: L'appel en attente est maintenant désactivé, lorsque vous êtes déjà en communication, vous ne serez pas informé des nouveaux appels entrants.
 cw-not_available: L'appel en attente n'est pas pris en charge par ce téléphone. Veuillez contacter le service d'assistance si vous pensez qu'il s'agit d'une erreur.
